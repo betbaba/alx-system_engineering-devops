@@ -1,2 +1,0 @@
-readme 
-  hjvboujbouihlknnoikjml,,,,,,CXC

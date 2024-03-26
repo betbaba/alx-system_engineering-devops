@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-#Displays the content of the current directory
-
-for i in $(ls)
-do     
-	echo "$i" | awk '{ print substr( $0, 3 ) }'
-done
